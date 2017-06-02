@@ -1,0 +1,1 @@
+java -cp C:\Users\IBM_ADMIN\Desktop\bckup\Day1\Day1\bin;C:\Users\IBM_ADMIN\Desktop\bckup\Day1\Day1\lib\* org.testng.TestNG Jenkins.xml
